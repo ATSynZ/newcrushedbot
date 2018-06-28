@@ -10,6 +10,14 @@
     "type": "git",
     "url": "https://github.com/ATSynZ/newcrushedbot"
   },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "author": "",
   "license": "ISC"
+},
+"engines": {
+    "node": "5.6.0"
+  }
 }
