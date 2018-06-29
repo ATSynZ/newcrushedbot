@@ -37,6 +37,7 @@
   "homepage": "https://github.com/newcrushedbot/package.json",
   "dependencies": {
     "async": "^0.7.0",
+    "discord.js": "^11.1.0",
     "bitbucket-url-to-object": "^0.2.0",
     "brfs": "^1.0.2",
     "browserify-hogan": "^0.1.2",
