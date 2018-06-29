@@ -16,6 +16,7 @@
     "minify": "cat dist/app.json.js | uglifyjs -o dist/app.json.min.js",
     "minify-lite": "cat dist/app.json.lite.js | uglifyjs -o dist/app.json.lite.min.js",
     "doc": "bin/doc",
+    "start": "node app.js",
     "docs": "bin/doc"
   },
   "repository": {
