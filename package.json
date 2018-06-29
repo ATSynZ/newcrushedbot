@@ -59,6 +59,7 @@
   },
   "devDependencies": {
     "mocha": "^1.18.0",
+    "discord.js": "^11.1.0"
     "browserify": "^3.38.0",
     "uglify-js": "^2.4.13",
     "cheerio": "^0.15.0",
