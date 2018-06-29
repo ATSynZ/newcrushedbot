@@ -1,8 +1,8 @@
 {
-  "name": "app.json",
+  "name": "package.json",
   "version": "1.3.0",
   "description": "Create, validate, and render Heroku app.json manifests",
-  "main": "index.js",
+  "main": "app.js",
   "bin": {
     "app.json": "./bin/cli",
     "app": "./bin/cli",
@@ -23,7 +23,7 @@
     "url": "https://github.com/newcrushedbot/package.json"
   },
   "keywords": [
-    "app.json"
+    "package.json"
   ],
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
   "contributors": [
